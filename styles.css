@@ -1,0 +1,40 @@
+
+*{
+  background-color: #82A284;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+.amount{
+  margin-bottom: 100px;
+}
+.Bill,.buttons{
+  margin-bottom: 50px;
+}
+.people {
+  margin-bottom: 30px;
+  font-size: 28px;
+}
+.displays,.buttons ,.totalBtn , .final-amount{
+  margin-top: 20px;
+}
+.subtract{
+  margin-right: 40px;
+}
+.totallBtn{
+  margin-left: 10px;
+}
+.heading{
+  margin-bottom: 100px;
+  font-size: 50px;
+}
+.total-tip{
+  margin-left: 60px;
+}
+.total-bill, .total-tip , .add , .subtract , .totallBtn {
+  border-radius: 10px;
+  outline: auto;
+}
+.Bill , .total-bill ,.total-tip , .tip-amount ,.totallBtn , .final-amount{
+  font-size: 28px;
+}
