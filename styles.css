@@ -38,3 +38,15 @@
 .Bill , .total-bill ,.total-tip , .tip-amount ,.totallBtn , .final-amount{
   font-size: 28px;
 }
+
+.totallBtn :hover{
+  cursor: pointer;
+}
+
+.add :hover{
+  cursor: pointer;
+}
+
+.subtract :hover{
+  cursor: pointer;
+}
